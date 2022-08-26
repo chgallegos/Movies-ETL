@@ -1,3 +1,10 @@
+# Adding DS_Store
+.DS_store
+
+# Adding files
+ratings.csv
+credits.csv
+
 *.gem
 *.rbc
 /.config
