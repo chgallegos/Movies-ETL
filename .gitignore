@@ -1,5 +1,7 @@
 # Adding DS_Store
 .DS_store
+# Adding checkpoints
+.ipynb_checkpoints
 
 # Adding files
 ratings.csv
