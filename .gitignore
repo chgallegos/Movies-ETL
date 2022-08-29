@@ -2,6 +2,8 @@
 .DS_store
 # Adding checkpoints
 .ipynb_checkpoints
+config.py
+__pycache__/
 
 # Adding files
 ratings.csv
